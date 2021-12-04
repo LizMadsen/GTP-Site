@@ -1,5 +1,10 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+    <img
+      class="hamburger mx-2"
+      alt="hamburger"
+      src="https://i.imgur.com/9Kt26jI.png"
+    />
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
       <div class="d-flex flex-column align-items-center">
         <img
@@ -31,7 +36,7 @@
           </router-link>
         </li>
       </ul>
-      <span class="navbar-text">
+      <!-- <span class="navbar-text">
         <button
           class="
             btn
@@ -84,7 +89,7 @@
             </div>
           </div>
         </div>
-      </span>
+      </span> -->
     </div>
   </nav>
 </template>
@@ -134,5 +139,8 @@ a:hover {
 }
 .headerText {
   width: 20rem;
+}
+.hamburger {
+  height: 1.5rem;
 }
 </style>
