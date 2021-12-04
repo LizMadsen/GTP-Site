@@ -1,10 +1,11 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
-    <img
+    <!-- <img
       class="hamburger mx-2"
       alt="hamburger"
       src="https://i.imgur.com/9Kt26jI.png"
-    />
+    /> -->
+
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
       <div class="d-flex flex-column align-items-center">
         <img
