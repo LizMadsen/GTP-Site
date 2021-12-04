@@ -2,7 +2,11 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
       <div class="d-flex flex-column align-items-center">
-        GAMING THEATER PRESENTS
+        <img
+          class="headerText"
+          alt="logo"
+          src="https://i.imgur.com/kk5u6j0.png"
+        />
       </div>
     </router-link>
     <button
@@ -127,5 +131,8 @@ a:hover {
   border-bottom: 2px solid var(--bs-success);
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
+}
+.headerText {
+  width: 20rem;
 }
 </style>
