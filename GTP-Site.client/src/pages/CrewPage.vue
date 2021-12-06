@@ -48,7 +48,6 @@
     <div class="col-md-2 mt-3 mx-2 card elevation-2">
       <img class="mt-2" src="https://i.imgur.com/i0tx6jv.png" />
       <b><h5>Rob</h5></b>
-      [Socials go here]
       <p>Voice actor, researcher, narrator</p>
     </div>
   </div>
@@ -56,20 +55,22 @@
     <div class="col-md-2 mt-3 mx-2 card elevation-2">
       <img class="mt-2" src="https://i.imgur.com/V9EgFdP.png" />
       <b><h5>Darien</h5></b>
-      [Socials go here]
+      <span>
+        <a href="https://www.instagram.com/dariensmartt/"
+          ><img class="socialsImg me-1" src="https://i.imgur.com/K9cb6IF.png"
+        /></a>
+      </span>
       <p>Voice actor, writer, researcher, narrator</p>
     </div>
     <div class="col-md-2 mt-3 mx-2 card elevation-2">
       <img class="mt-2" src="https://i.imgur.com/CzhLJp2.png" />
       <b><h5>Arem the Red</h5></b>
-      [Socials go here]
       <p>Voice actor, narrator</p>
     </div>
     <div class="col-md-2 mt-3 mx-2 card elevation-2">
       <img class="mt-2" src="https://i.imgur.com/1iA2dT3.png" />
       <b><h5>Moontastical</h5></b>
-      [Socials go here]
-      <p>Voice actor, narrator</p>
+      <p>Voice actor, narrator, writer</p>
     </div>
     <div class="col-md-2 mt-3 mx-2 card elevation-2">
       <img class="mt-2" src="https://i.imgur.com/qJYEIfI.png" />
@@ -87,35 +88,24 @@
   </div>
   <div class="row m-0 justify-content-center">
     <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/V9EgFdP.png" />
-      <b><h5>Darien</h5></b>
-      [Socials go here]
-      <p>Voice actor, writer, researcher, narrator</p>
-    </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/CzhLJp2.png" />
-      <b><h5>Arem the Red</h5></b>
-      [Socials go here]
+      <img class="mt-2" src="https://i.imgur.com/8V4Aj7q.png" />
+      <b><h5>Keibai</h5></b>
       <p>Voice actor, narrator</p>
     </div>
     <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/1iA2dT3.png" />
-      <b><h5>Moontastical</h5></b>
-      [Socials go here]
-      <p>Voice actor, narrator</p>
-    </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/qJYEIfI.png" />
-      <b><h5>Brandon / TomatoMan</h5></b>
+      <img class="mt-2" src="https://i.imgur.com/85Yh4vZ.png" />
+      <b><h5>K.oglasain</h5></b>
       <span>
-        <a href="https://twitter.com/TM80MAN"
-          ><img class="socialsImg me-1" src="https://i.imgur.com/49GvGxp.png"
-        /></a>
-        <a href="https://www.youtube.com/c/YieldTomato"
-          ><img class="socialsImg" src="https://i.imgur.com/jaQtj2J.png"
+        <a href="https://www.instagram.com/k.oglasain/"
+          ><img class="socialsImg me-1" src="https://i.imgur.com/K9cb6IF.png"
         /></a>
       </span>
-      Voice actor, narrator, researcher
+      <p>Voice actor, narrator</p>
+    </div>
+    <div class="col-md-2 mt-3 mx-2 card elevation-2">
+      <img class="mt-2" src="https://i.imgur.com/DW9zr5m.png" />
+      <b><h5>Azure</h5></b>
+      <p>Voice actor, narrator</p>
     </div>
   </div>
 </template>
