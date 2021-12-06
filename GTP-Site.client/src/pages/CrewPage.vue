@@ -6,9 +6,9 @@
         <h5>Leo / Geek Scorpio</h5>
       </b>
       <span>
-        <a href="https://twitter.com/geek_scorpio"><img class="socialsImg me-1"
+        <a href="https://twitter.com/geek_scorpio"><img class="socialsImg me-1 twitter"
             src="https://i.imgur.com/49GvGxp.png" /></a>
-        <a href="https://www.instagram.com/geekscorpio/"><img class="socialsImg"
+        <a href="https://www.instagram.com/geekscorpio/"><img class="socialsImg instagram"
             src="https://i.imgur.com/K9cb6IF.png" /></a>
       </span>
       Founder, voice actor, researcher, writer, director, narrator
@@ -19,13 +19,13 @@
         <h5>ZombieHand</h5>
       </b>
       <span>
-        <a href="https://twitter.com/Zombie_Hand"><img class="socialsImg me-1"
+        <a href="https://twitter.com/Zombie_Hand"><img class="socialsImg me-1 twitter"
             src="https://i.imgur.com/49GvGxp.png" /></a>
-        <a href="https://www.instagram.com/zombiehandcreations/"><img class="socialsImg me-1"
+        <a href="https://www.instagram.com/zombiehandcreations/"><img class="socialsImg me-1 instagram"
             src="https://i.imgur.com/K9cb6IF.png" /></a>
-        <a href="https://www.youtube.com/channel/UCvmB0VqOd1wmz7i_AcTjZkw"><img class="socialsImg me-1"
+        <a href="https://www.youtube.com/channel/UCvmB0VqOd1wmz7i_AcTjZkw"><img class="socialsImg me-1 youtube"
             src="https://i.imgur.com/jaQtj2J.png" /></a>
-        <a href="https://www.twitch.tv/lizombiehand"><img class="socialsImg me-1"
+        <a href="https://www.twitch.tv/lizombiehand"><img class="socialsImg me-1 twitch"
             src="https://i.imgur.com/rlv2zLT.png" /></a>
       </span>
       <p>Artist, voice actor, researcher, writer, narrator</p>
@@ -36,9 +36,9 @@
         <h5>DnDaine</h5>
       </b>
       <span>
-        <a href="https://twitter.com/DaineNotDane"><img class="socialsImg me-1"
+        <a href="https://twitter.com/DaineNotDane"><img class="socialsImg me-1 twitter"
             src="https://i.imgur.com/49GvGxp.png" /></a>
-        <a href="https://www.twitch.tv/danddaine"><img class="socialsImg me-1"
+        <a href="https://www.twitch.tv/danddaine"><img class="socialsImg me-1 twitch"
             src="https://i.imgur.com/rlv2zLT.png" /></a>
       </span>
       <p>Voice actor, narrator</p>
@@ -58,7 +58,7 @@
         <h5>Darien</h5>
       </b>
       <span>
-        <a href="https://www.instagram.com/dariensmartt/"><img class="socialsImg me-1"
+        <a href="https://www.instagram.com/dariensmartt/"><img class="socialsImg me-1 instagram"
             src="https://i.imgur.com/K9cb6IF.png" /></a>
       </span>
       <p>Voice actor, writer, researcher, narrator</p>
@@ -83,8 +83,9 @@
         <h5>Brandon / TomatoMan</h5>
       </b>
       <span>
-        <a href="https://twitter.com/TM80MAN"><img class="socialsImg me-1" src="https://i.imgur.com/49GvGxp.png" /></a>
-        <a href="https://www.youtube.com/c/YieldTomato"><img class="socialsImg"
+        <a href="https://twitter.com/TM80MAN"><img class="socialsImg me-1 twitter"
+            src="https://i.imgur.com/49GvGxp.png" /></a>
+        <a href="https://www.youtube.com/c/YieldTomato"><img class="socialsImg youtube"
             src="https://i.imgur.com/jaQtj2J.png" /></a>
       </span>
       Voice actor, narrator, researcher
@@ -104,7 +105,7 @@
         <h5>K.oglasain</h5>
       </b>
       <span>
-        <a href="https://www.instagram.com/k.oglasain/"><img class="socialsImg me-1"
+        <a href="https://www.instagram.com/k.oglasain/"><img class="socialsImg me-1 instagram"
             src="https://i.imgur.com/K9cb6IF.png" /></a>
       </span>
       <p>Voice actor, narrator</p>
