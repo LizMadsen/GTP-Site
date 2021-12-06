@@ -1,8 +1,13 @@
 <template>
-  <div class="row m-0">
-    <div class="col-8">
-      <img class="elevation-3 mt-3" src="https://i.imgur.com/OWqYRIL.jpg" />
+  <div class="row m-0 justify-content-center">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <img
+        class="elevation-3 mt-3 gtpBanner"
+        src="https://i.imgur.com/OWqYRIL.jpg"
+      />
     </div>
+    <div class="col-md-2"></div>
   </div>
 </template>
 
@@ -13,21 +18,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-.home {
-  display: grid;
-  height: 80vh;
-  place-content: center;
-  text-align: center;
-  user-select: none;
-  .home-card {
-    width: 50vw;
-    > img {
-      height: 200px;
-      max-width: 200px;
-      width: 100%;
-      object-fit: contain;
-      object-position: center;
-    }
-  }
+.gtpBanner {
+  max-width: 100%;
+  height: auto;
 }
 </style>

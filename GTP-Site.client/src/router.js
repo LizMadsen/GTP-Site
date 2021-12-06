@@ -22,6 +22,16 @@ const routes = [
     component: loadPage('CrewPage')
   },
   {
+    path: '/playlists',
+    name: 'Playlists',
+    component: loadPage('PlaylistsPage')
+  },
+  {
+    path: '/artworks',
+    name: 'Artworks',
+    component: loadPage('ArtworksPage')
+  },
+  {
     path: '/account',
     name: 'Account',
     component: loadPage('AccountPage'),

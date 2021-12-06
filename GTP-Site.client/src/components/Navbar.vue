@@ -1,6 +1,6 @@
 <template>
   <div class="row m-0 headerBG">
-    <div class="col-1 my-2">
+    <div class="col-md-1 my-2">
       <button
         class="btn text-light"
         type="button"
@@ -49,16 +49,30 @@
               >
                 ⯁ Meet the Crew
               </router-link>
+              <br />
+              <router-link
+                :to="{ name: 'Playlists' }"
+                class="btn selectable offCanvasFont"
+              >
+                ⯁ Gaming Theater Playlists
+              </router-link>
+              <br />
+              <router-link
+                :to="{ name: 'Artworks' }"
+                class="btn selectable offCanvasFont"
+              >
+                ⯁ Artworks
+              </router-link>
             </ul>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="col-3 my-3">
+    <div class="col-md-3 my-3">
       <router-link :to="{ name: 'Home' }">
         <img
-          class="headerText"
+          class="headerText gtpHeaderText"
           alt="logo"
           src="https://i.imgur.com/kk5u6j0.png"
         />
@@ -121,5 +135,9 @@ a:hover {
 }
 .offCanvasSize {
   width: 20rem;
+}
+.gtpHeaderText {
+  max-width: 100%;
+  height: auto;
 }
 </style>
