@@ -5,7 +5,9 @@
   <main>
     <router-view />
   </main>
-  <footer></footer>
+  <footer>
+    <div class="bg-transparent my-3"></div>
+  </footer>
 </template>
 
 <script>

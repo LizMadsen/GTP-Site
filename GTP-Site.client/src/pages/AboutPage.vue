@@ -1,5 +1,5 @@
 <template>
-  <div class="row m-0 justify-content-center">
+  <div class="row m-0 mt-5 justify-content-center">
     <div class="about card-header col-md-8 elevation-1 mt-3">
       <h1>What is Gaming Theater?</h1>
       <div class="row justify-content-between">

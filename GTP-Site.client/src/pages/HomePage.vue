@@ -1,5 +1,5 @@
 <template>
-  <div class="row m-0 justify-content-center">
+  <div class="row m-0 mt-5 justify-content-center">
     <div class="col-md-2"></div>
     <div class="col-md-8">
       <img

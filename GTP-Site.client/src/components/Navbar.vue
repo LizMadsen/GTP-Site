@@ -1,5 +1,5 @@
 <template>
-  <div class="row m-0 headerBG">
+  <div class="row m-0 headerBG fixed-top">
     <div class="col-md-1 my-2">
       <button
         class="btn text-light"
