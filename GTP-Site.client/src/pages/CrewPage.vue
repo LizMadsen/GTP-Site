@@ -1,7 +1,7 @@
 <template>
   <div class="row m-0 mt-5 justify-content-center">
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/klS7Q0U.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/klS7Q0U.png" />
       <b>
         <h5>Leo / Geek Scorpio</h5>
       </b>
@@ -13,8 +13,8 @@
       </span>
       Founder, voice actor, researcher, writer, director, narrator
     </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/G3KqoKt.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/G3KqoKt.png" />
       <b>
         <h5>ZombieHand</h5>
       </b>
@@ -30,8 +30,8 @@
       </span>
       <p>Artist, voice actor, researcher, writer, narrator</p>
     </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/GSXxNA5.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/GSXxNA5.png" />
       <b>
         <h5>DnDaine</h5>
       </b>
@@ -43,8 +43,8 @@
       </span>
       <p>Voice actor, narrator</p>
     </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/i0tx6jv.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/i0tx6jv.png" />
       <b>
         <h5>Rob</h5>
       </b>
@@ -52,8 +52,8 @@
     </div>
   </div>
   <div class="row m-0 justify-content-center">
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/V9EgFdP.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/V9EgFdP.png" />
       <b>
         <h5>Darien</h5>
       </b>
@@ -63,22 +63,22 @@
       </span>
       <p>Voice actor, writer, researcher, narrator</p>
     </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/CzhLJp2.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/CzhLJp2.png" />
       <b>
         <h5>Arem the Red</h5>
       </b>
       <p>Voice actor, narrator</p>
     </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/1iA2dT3.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/1iA2dT3.png" />
       <b>
         <h5>Moontastical</h5>
       </b>
       <p>Voice actor, narrator, writer</p>
     </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/qJYEIfI.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/qJYEIfI.png" />
       <b>
         <h5>Brandon / TomatoMan</h5>
       </b>
@@ -92,38 +92,38 @@
     </div>
   </div>
   <div class="row m-0 justify-content-center">
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/8V4Aj7q.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/8V4Aj7q.png" />
       <b>
         <h5>Keibai</h5>
       </b>
       <p>Voice actor, narrator</p>
     </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/85Yh4vZ.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/85Yh4vZ.png" />
       <b>
         <h5>K.oglasain</h5>
       </b>
       <span>
-        <a href="https://www.instagram.com/k.oglasain/"><img class="socialsImg me-1 instagram"
+        <a href="https://www.instagram.com/k.oglasain/"><img class="socialsImg me-1 instagram rounded"
             src="https://i.imgur.com/K9cb6IF.png" /></a>
       </span>
       <p>Voice actor, narrator</p>
     </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/DW9zr5m.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/DW9zr5m.png" />
       <b>
         <h5>Azure</h5>
       </b>
       <p>Voice actor, narrator</p>
     </div>
-    <div class="col-md-2 mt-3 mx-2 card elevation-2">
-      <img class="mt-2" src="https://i.imgur.com/uwRhiAQ.png" />
+    <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
+      <img class="mt-2 rounded" src="https://i.imgur.com/uwRhiAQ.png" />
       <b>
         <h5>Niblesnarf</h5>
       </b>
       <span>
-        <a href="https://twitter.com/TheNiblesnarf"><img class="socialsImg me-1"
+        <a href="https://twitter.com/TheNiblesnarf"><img class="socialsImg me-1 rounded"
             src="https://i.imgur.com/49GvGxp.png" /></a>
       </span>
       <p>Voice actor, narrator</p>
