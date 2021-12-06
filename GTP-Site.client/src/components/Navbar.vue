@@ -1,11 +1,37 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
-    <!-- <img
+  <div class="row m-0 headerBG">
+    <!-- <div class="col-1 mt-2">
+      <img
+        class="hamburger"
+        alt="hamburger"
+        src="https://i.imgur.com/9Kt26jI.png"
+      />
+    </div> -->
+    <div class="col-2 mt-2">
+      <router-link :to="{ name: 'Home' }">
+        <div class="d-flex flex-column align-items-center">
+          GAMING THEATER PRESENTS
+        </div>
+      </router-link>
+    </div>
+    <div class="col-2">
+      <ul class="me-auto">
+        <router-link
+          :to="{ name: 'About' }"
+          class="btn text-success lighten-30 selectable text-uppercase"
+        >
+          About
+        </router-link>
+      </ul>
+    </div>
+    <div class="col-7 mt-2"></div>
+  </div>
+  <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+    <img
       class="hamburger mx-2"
       alt="hamburger"
       src="https://i.imgur.com/9Kt26jI.png"
-    /> -->
-
+    />
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
       <div class="d-flex flex-column align-items-center">
         <img
@@ -37,7 +63,7 @@
           </router-link>
         </li>
       </ul>
-      <!-- <span class="navbar-text">
+      <span class="navbar-text">
         <button
           class="
             btn
@@ -90,9 +116,9 @@
             </div>
           </div>
         </div>
-      </span> -->
+      </span>
     </div>
-  </nav>
+  </nav> -->
 </template>
 
 <script>
@@ -143,5 +169,8 @@ a:hover {
 }
 .hamburger {
   height: 1.5rem;
+}
+.headerBG {
+  background-color: #c21e36;
 }
 </style>
