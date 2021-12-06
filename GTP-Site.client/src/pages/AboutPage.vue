@@ -1,7 +1,6 @@
 <template>
   <div class="bg-dark text-dark">
     <div class="row m-0 mt-5 justify-content-center">
-      <div class="col-md-2 bg-dark"></div>
       <div class="about card bg-light col-md-8 elevation-1 mt-3">
         <h1>What is Gaming Theater?</h1>
         <div class="row justify-content-between">
@@ -39,7 +38,6 @@
             alt="Photo of Leo with a rose in his mouth" />
         </div>
       </div>
-      <div class="col-md-2 bg-dark"></div>
     </div>
   </div>
 </template>
