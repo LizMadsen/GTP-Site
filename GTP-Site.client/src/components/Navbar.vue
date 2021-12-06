@@ -1,5 +1,54 @@
 <template>
   <div class="row m-0 headerBG">
+    <div class="col-1 mt-2">
+      <button
+        class="btn text-light"
+        type="button"
+        data-bs-toggle="offcanvas"
+        data-bs-target="#offcanvasExample"
+        aria-controls="offcanvasExample"
+      >
+        <img class="hamburger" src="https://i.imgur.com/9Kt26jI.png" />
+      </button>
+
+      <div
+        class="offcanvas offcanvas-start"
+        tabindex="-1"
+        id="offcanvasExample"
+        aria-labelledby="offcanvasExampleLabel"
+      >
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasExampleLabel">NAVIGATION</h5>
+          <button
+            type="button"
+            class="btn-close text-reset"
+            data-bs-dismiss="offcanvas"
+            aria-label="Close"
+          ></button>
+        </div>
+        <div class="offcanvas-body">
+          <div>
+            <ul class="me-auto">
+              <router-link
+                :to="{ name: 'Home' }"
+                class="btn text-dark selectable"
+              >
+                ⯁ Home
+              </router-link>
+              <p>
+                <router-link
+                  :to="{ name: 'About' }"
+                  class="btn text-dark selectable"
+                >
+                  ⯁ About
+                </router-link>
+              </p>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="col-3 mt-3">
       <router-link :to="{ name: 'Home' }">
         <img
@@ -10,16 +59,7 @@
         />
       </router-link>
     </div>
-    <div class="col-2 mt-2">
-      <ul class="me-auto">
-        <router-link
-          :to="{ name: 'About' }"
-          class="btn text-success lighten-30 selectable text-uppercase"
-        >
-          About
-        </router-link>
-      </ul>
-    </div>
+    <div class="col-2 mt-2"></div>
     <div class="col-7 mt-2"></div>
   </div>
   <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
@@ -159,10 +199,10 @@ a:hover {
   border-bottom: 2px solid var(--bs-success);
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
-}
+} */
 .hamburger {
   height: 1.5rem;
-} */
+}
 .headerBG {
   background-color: #c21e36;
 }
