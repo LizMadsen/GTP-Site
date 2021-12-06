@@ -6,7 +6,11 @@
     <router-view />
   </main>
   <footer>
-    <div class="bg-dark my-3"></div>
+    <center>
+      <div class="bg-dark tex-light p-3">
+        Made by Liz, December 2021
+      </div>
+    </center>
   </footer>
 </template>
 
