@@ -1,20 +1,16 @@
 <template>
   <div class="row m-0 headerBG">
-    <!-- <div class="col-1 mt-2">
-      <img
-        class="hamburger"
-        alt="hamburger"
-        src="https://i.imgur.com/9Kt26jI.png"
-      />
-    </div> -->
-    <div class="col-2 mt-2">
+    <div class="col-3 mt-3">
       <router-link :to="{ name: 'Home' }">
-        <div class="d-flex flex-column align-items-center">
-          GAMING THEATER PRESENTS
-        </div>
+        <img
+          class="headerText"
+          alt="logo"
+          src="https://i.imgur.com/kk5u6j0.png"
+          height="22"
+        />
       </router-link>
     </div>
-    <div class="col-2">
+    <div class="col-2 mt-2">
       <ul class="me-auto">
         <router-link
           :to="{ name: 'About' }"
@@ -141,7 +137,7 @@ export default {
 </script>
 
 <style scoped>
-.dropdown-menu {
+/* .dropdown-menu {
   user-select: none;
   display: block;
   transform: scale(0);
@@ -164,12 +160,9 @@ a:hover {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.headerText {
-  width: 20rem;
-}
 .hamburger {
   height: 1.5rem;
-}
+} */
 .headerBG {
   background-color: #c21e36;
 }
