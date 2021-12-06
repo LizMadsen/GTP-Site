@@ -1,6 +1,6 @@
 <template>
   <div class="row m-0 headerBG fixed-top">
-    <div class="col-md-1 my-2">
+    <div class="col-md-1 my-1">
       <button
         class="btn text-light"
         type="button"
@@ -69,7 +69,7 @@
       </div>
     </div>
 
-    <div class="col-md-3 my-3">
+    <div class="col-md-3 my-1">
       <router-link :to="{ name: 'Home' }">
         <img
           class="headerText gtpHeaderText"
