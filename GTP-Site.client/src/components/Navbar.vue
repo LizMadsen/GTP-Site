@@ -1,6 +1,6 @@
 <template>
   <div class="row m-0 headerBG">
-    <div class="col-1 mt-2">
+    <div class="col-1 my-2">
       <button
         class="btn text-light"
         type="button"
@@ -12,7 +12,7 @@
       </button>
 
       <div
-        class="offcanvas offcanvas-start"
+        class="offcanvas offcanvas-start offCanvasSize"
         tabindex="-1"
         id="offcanvasExample"
         aria-labelledby="offcanvasExampleLabel"
@@ -31,130 +31,40 @@
             <ul class="me-auto">
               <router-link
                 :to="{ name: 'Home' }"
-                class="btn text-dark selectable"
+                class="btn selectable offCanvasFont"
               >
                 ⯁ Home
               </router-link>
-              <p>
-                <router-link
-                  :to="{ name: 'About' }"
-                  class="btn text-dark selectable"
-                >
-                  ⯁ About
-                </router-link>
-              </p>
+              <br />
+              <router-link
+                :to="{ name: 'About' }"
+                class="btn selectable offCanvasFont"
+              >
+                ⯁ About
+              </router-link>
+              <br />
+              <router-link
+                :to="{ name: 'Crew' }"
+                class="btn selectable offCanvasFont"
+              >
+                ⯁ Meet the Crew
+              </router-link>
             </ul>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="col-3 mt-3">
+    <div class="col-3 my-3">
       <router-link :to="{ name: 'Home' }">
         <img
           class="headerText"
           alt="logo"
           src="https://i.imgur.com/kk5u6j0.png"
-          height="22"
         />
       </router-link>
     </div>
-    <div class="col-2 mt-2"></div>
-    <div class="col-7 mt-2"></div>
   </div>
-  <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
-    <img
-      class="hamburger mx-2"
-      alt="hamburger"
-      src="https://i.imgur.com/9Kt26jI.png"
-    />
-    <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
-      <div class="d-flex flex-column align-items-center">
-        <img
-          class="headerText"
-          alt="logo"
-          src="https://i.imgur.com/kk5u6j0.png"
-        />
-      </div>
-    </router-link>
-    <button
-      class="navbar-toggler"
-      type="button"
-      data-bs-toggle="collapse"
-      data-bs-target="#navbarText"
-      aria-controls="navbarText"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
-      <span class="navbar-toggler-icon" />
-    </button>
-    <div class="collapse navbar-collapse" id="navbarText">
-      <ul class="navbar-nav me-auto">
-        <li>
-          <router-link
-            :to="{ name: 'About' }"
-            class="btn text-success lighten-30 selectable text-uppercase"
-          >
-            About
-          </router-link>
-        </li>
-      </ul>
-      <span class="navbar-text">
-        <button
-          class="
-            btn
-            selectable
-            text-success
-            lighten-30
-            text-uppercase
-            my-2 my-lg-0
-          "
-          @click="login"
-          v-if="!user.isAuthenticated"
-        >
-          Login
-        </button>
-
-        <div class="dropdown my-2 my-lg-0" v-else>
-          <div
-            class="dropdown-toggle selectable"
-            data-bs-toggle="dropdown"
-            aria-expanded="false"
-            id="authDropdown"
-          >
-            <img
-              :src="user.picture"
-              alt="user photo"
-              height="40"
-              class="rounded"
-            />
-            <span class="mx-3 text-success lighten-30">{{ user.name }}</span>
-          </div>
-          <div
-            class="dropdown-menu p-0 list-group w-100"
-            aria-labelledby="authDropdown"
-          >
-            <router-link :to="{ name: 'Account' }">
-              <div class="list-group-item list-group-item-action hoverable">
-                Manage Account
-              </div>
-            </router-link>
-            <div
-              class="
-                list-group-item list-group-item-action
-                hoverable
-                text-danger
-              "
-              @click="logout"
-            >
-              <i class="mdi mdi-logout"></i>
-              logout
-            </div>
-          </div>
-        </div>
-      </span>
-    </div>
-  </nav> -->
 </template>
 
 <script>
@@ -205,5 +115,11 @@ a:hover {
 }
 .headerBG {
   background-color: #c21e36;
+}
+.offCanvasFont {
+  color: #1872cc;
+}
+.offCanvasSize {
+  width: 20rem;
 }
 </style>

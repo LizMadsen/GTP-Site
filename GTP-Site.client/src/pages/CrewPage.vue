@@ -1,8 +1,6 @@
 <template>
   <div class="row m-0">
-    <div class="col-8">
-      <img class="elevation-3 mt-3" src="https://i.imgur.com/OWqYRIL.jpg" />
-    </div>
+    <div class="col-1">CREW PAGE BITCH</div>
   </div>
 </template>
 
