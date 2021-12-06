@@ -20,6 +20,7 @@
           there will be some Phasmophobia with several of the cast taking on new characters
           going on a ghost hunting adventure.
         </p>
+        <img src="https://i.imgur.com/lKXYSl9.png">
       </div>
       <div class="col-md-3 card elevation-2 bg-light mt-3">
         BEHIND THE SCENES PHOTOS
