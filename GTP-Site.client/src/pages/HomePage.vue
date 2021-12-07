@@ -7,7 +7,7 @@
       </div>
       <div class="col-md-2"></div>
     </div>
-    <div class="row m-0 mt-5 justify-content-around">
+    <div class="row m-0 mt-3 justify-content-around">
       <div class="col-md-3 card elevation-2 bg-light mt-3 p-3">
         <h5>Coming up for Gaming Theater Presents:</h5>
         <p>Currently, the remaining episodes of Chrono Trigger are being edited and
@@ -16,14 +16,26 @@
         </p>
         <p>Currently, the team is recording episodes for Secret of Mana, as well as a
           few other side projects when ZombieHand (who is the one playing Scret of Mana for
-          the team) can't make it to recordings. You can see Super Ghosts 'N' Ghouls, and soon
+          the team) can't make it to recordings. You can see Super Ghouls 'N' Ghosts, and soon
           there will be some Phasmophobia with several of the cast taking on new characters
           going on a ghost hunting adventure.
         </p>
         <img src="https://i.imgur.com/lKXYSl9.png">
       </div>
-      <div class="col-md-3 card elevation-2 bg-light mt-3">
-        BEHIND THE SCENES PHOTOS
+      <div class="col-md-3 card elevation-2 bg-light mt-3 p-3">
+        <img src=https://i.imgur.com/0Ch7P4C.png />
+        <h4>Happy Holidays from everyone at Gaming Theater Presents!</h4>
+        <p>If you're in need of some holiday cheer, look no further than GTP's Chrono Trigger
+          rendition of The Twelve Days of Christmas!
+        </p>
+        <p>Can you believe how weirdly difficult it was to find a full, instrumental version of
+          this song? But Geek Scorpio managed to find one, and then piece together the last
+          parts of it to bring it all together to this final product.</p>
+        <p>Also, as a member of the voice cast, this recording session was <i>so</i> fun!</p>
+        <iframe width="375" height="200" src="https://www.youtube.com/embed/kCZ84B71SLo" title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       </div>
       <div class="col-md-3 card elevation-2 bg-light mt-3">
         <img class="mt-2" src="https://i.imgur.com/KnHIvZL.jpg" />

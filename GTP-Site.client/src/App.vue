@@ -8,7 +8,7 @@
   <footer>
     <center>
       <div class="bg-dark tex-light p-3">
-        Made by Liz, December 2021
+        Site created and maintained by Liz (ZombieHand), December 2021 - Present
       </div>
     </center>
   </footer>

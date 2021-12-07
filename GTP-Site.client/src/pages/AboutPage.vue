@@ -1,9 +1,9 @@
 <template>
   <div class="bg-dark text-dark">
     <div class="row m-0 mt-5 justify-content-center">
-      <div class="about card bg-light col-md-8 elevation-1 mt-3">
+      <div class="about card bg-light col-md-8 elevation-1 mt-3 -3">
         <h1>What is Gaming Theater?</h1>
-        <div class="row justify-content-between">
+        <div class="row justify-content-between p-3">
           <div class="col-md-6">
             <p>
               Gaming Theater Presents is the brainchild of Geek Scorpio, started
