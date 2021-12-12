@@ -7,8 +7,8 @@
       </div>
       <div class="col-md-2"></div>
     </div>
-    <div class="row m-0 mt-3 justify-content-around">
-      <div class="col-md-3 card elevation-2 bg-light mt-3 p-3">
+    <div class="row m-0 mt-3 justify-content-center">
+      <div class="col-md-3 card elevation-2 bg-light mt-3 me-5 p-3">
         <h5>Coming up for Gaming Theater Presents:</h5>
         <p>Currently, the remaining episodes of Chrono Trigger are being edited and
           posted to the GTP YouTube channel. There's still plenty of episodes left,
@@ -22,7 +22,7 @@
         </p>
         <img src="https://i.imgur.com/lKXYSl9.png">
       </div>
-      <div class="col-md-3 card elevation-2 bg-light mt-3 p-3">
+      <div class="col-md-3 card elevation-2 bg-light mt-3 me-5 p-3">
         <img src=https://i.imgur.com/0Ch7P4C.png />
         <h4>Happy Holidays from everyone at Gaming Theater Presents!</h4>
         <p>If you're in need of some holiday cheer, look no further than GTP's Chrono Trigger

@@ -34,7 +34,7 @@
       <div class="col-md-2 mt-3 mx-2 card elevation-2 rounded">
         <img class="mt-2 rounded" src="https://i.imgur.com/GSXxNA5.png" />
         <b>
-          <h5>DnDaine</h5>
+          <h5>DandDaine</h5>
         </b>
         <span>
           <a href="https://twitter.com/DaineNotDane"><img class="socialsImg me-1 twitter"
